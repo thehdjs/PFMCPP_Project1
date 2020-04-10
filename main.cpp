@@ -59,85 +59,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: foot
+//  action 1: the foot hurts
+foot.hurt();
+//  action 2: the foot fails
+foot.fail();
+//  action 3: the foot smells
+ foot.smell();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: skin
+//  action 1: the skin crawls
+skin.crawl();
+//  action 2: the skin sheds
+skin.shed();
+//  action 3:  the skin peels
+ skin.peel();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: cable
+//  action 1: the cable conducts
+cable.conduct();
+//  action 2: the cable rips
+cable.rip;
+//  action 3: the cable creates hum
+ cable.createHum();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: filter
+//  action 1: the filter filters certain frequencies
+filter.filterCertainFrequencies();
+//  action 2: the filter resonates
+filter.resonate();
+//  action 3: the filter sweeps
+ filter.sweep();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: the Dual Universal Slope Generator
+//  action 1: the Dual Universal Slope Generator cycles
+dualUniversalSlopeGenerator.cycle();
+//  action 2: the Dual Universal Slope Generator generates
+Dual Universal Slope Generator.generate();
+//  action 3: the Dual Universal Slope Generator slews
+ Dual Universal Slope Generator.slew();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: folding bike
+//  action 1: the folding bike folds
+foldingBike.fold();
+//  action 2: the folding bike  rolls
+foldingBike.roll();
+//  action 3: the folding bike crashes 
+ foldintBike.crash()
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: soldering iron
+//  action 1: the soldering iron melts
+solderingIron.melt();
+//  action 2: the soldering iron solders
+solderingIOron.solder();
+//  action 3: the soldering iron burns
+ solderingIron.burn();
+//  8) 
+//  Noun: sine wave
+//  action 1: the sine wave calibrates
+sineWave.calibrate();
+//  action 2: the sine wave addsSub
+sineWave.addSub();
+//  action 3: the sine wave annoys
+ sineWave.annoy();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Pro Tools
+//  action 1: Pro Tools crashes
+proTools.crash();
+//  action 2: Pro Tools costs a lot
+proTools.costALot();
+//  action 3: Pro Tools should fix its legacy code
+ proTools.fixLegacyCode();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: boat
+//  action 1: the boat floats on water (to avoid having a "float" function)
+boat.floatOnWater();
+//  action 2: the boat sinks
+boat.sink();
+//  action 3: the boat honks
+ boat.honk();
 
 
 #endif
