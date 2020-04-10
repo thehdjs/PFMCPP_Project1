@@ -97,7 +97,7 @@ dualUniversalSlopeGenerator.cycle();
 //  action 2: the Dual Universal Slope Generator generates
 dualUniversalSlopeGenerator.generate();
 //  action 3: the Dual Universal Slope Generator slews
-DualUniversalSlopeGenerator.slew();
+dualUniversalSlopeGenerator.slew();
 //  6)
 //  Noun: folding bike
 //  action 1: the folding bike folds
